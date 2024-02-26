@@ -27,9 +27,12 @@ Alpine.
 
 Closed source, non-free software not suitable for development, but unable to be ignored as most of the people in the world use them. Richard Stallman calls them "Malware".
 
-### Past OS
+### Relic OS
 
 The OS world table may seem mundane: very few new players are presented on stage. Yet, if we allow relics from the past, there are Minix, Gnu-Hurd, and many others.
+
+- [What every programmer should know about memory](https://akkadia.org/drepper/cpumemory.pdf#cite.highperfdram)
+- [What every computer scientist should know about floating point arithmetic](https://docs.oracle.com/cd/E19957-01/800-7895/800-7895.pdf)
 
 ## Programming Languages
 
