@@ -16,3 +16,4 @@
 ### Industry
 
 - ASML
+- ARM

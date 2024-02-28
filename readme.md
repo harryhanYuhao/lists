@@ -27,24 +27,46 @@ Alpine.
 
 Closed source, non-free software not suitable for development, but unable to be ignored as most of the people in the world use them. Richard Stallman calls them "Malware".
 
-### Relic OS
+### OS of the Relics
 
 The OS world table may seem mundane: very few new players are presented on stage. Yet, if we allow relics from the past, there are Minix, Gnu-Hurd, and many others.
+
+### OS Reading List
+
+#### Articles 
 
 - [What every programmer should know about memory](https://akkadia.org/drepper/cpumemory.pdf#cite.highperfdram)
 - [What every computer scientist should know about floating point arithmetic](https://docs.oracle.com/cd/E19957-01/800-7895/800-7895.pdf)
 
+#### Books
+
+- Operating System Concepts, Silberschatz, Galvin, Gagne.
+- Operating System, Design and Implementation, Andrew Tanenbaum.
+
+### Low Level Tools
+
+- Valgrind: profiler
+- gem5: simulator
+- Standart Performance Evaluation Corporation.
+
 ## Programming Languages
 
 ###  Go 
+
+#### Articles
 
 - [module-compatibility](https://go.dev/blog/module-compatibility)
 - [Profiling Go](https://go.dev/blog/pprof)
 
 ### Frontend
 
+#### Articles
+
 - [react server components](https://www.joshwcomeau.com/react/server-components/)
 - [Markdown Content](https://claritydev.net/blog/nextjs-blog-remark-interactive-table-of-contents)
+
+#### UIlibraries
+
 - [DaisyUi](https://daisyui.com/)
 - [AceternityUI](https://ui.aceternity.com/component)
 
@@ -56,5 +78,4 @@ The OS world table may seem mundane: very few new players are presented on stage
 ## Jobs 
 
 See [jobs.md](./jobs.md)
-
 
