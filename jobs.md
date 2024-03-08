@@ -17,3 +17,6 @@
 
 - ASML
 - ARM
+- Intel
+- Nvidia
+- Qualcomm

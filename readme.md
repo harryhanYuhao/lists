@@ -78,4 +78,3 @@ The OS world table may seem mundane: very few new players are presented on stage
 ## Jobs 
 
 See [jobs.md](./jobs.md)
-
