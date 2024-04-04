@@ -1,5 +1,9 @@
 # Resource Lists
 
+## Networks
+
+- Unix Network Programming , W. Richard Stevens
+
 ## OS
 
 The kernel and the operations system.
@@ -65,13 +69,19 @@ The OS world table may seem mundane: very few new players are presented on stage
 - [react server components](https://www.joshwcomeau.com/react/server-components/)
 - [Markdown Content](https://claritydev.net/blog/nextjs-blog-remark-interactive-table-of-contents)
 
-#### UIlibraries
+#### UI libraries
 
 - [DaisyUi](https://daisyui.com/)
 - [AceternityUI](https://ui.aceternity.com/component)
+- [React-spring](https://react-spring.dev/)
 
+### Integrated Tools
 
-## Software Development 
+- Typeform ( for form submission )
+- Stripe ( For online payments) 
+- Stripe Link
+
+## Generic Software Development 
 
 - [module-compatibility](https://go.dev/blog/module-compatibility)
 
