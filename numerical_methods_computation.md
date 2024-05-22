@@ -13,7 +13,7 @@
 - OpenBlas 
 - Intel Math Kernel Library
 - rulinalg: rust linear algebra libaray
-- [GMP](https://gmplib.org/)
+- Gnu MP [GMP](https://gmplib.org/)
 - Gnu Scientific Library [GSL](https://www.gnu.org/software/gsl/)
 
 See:
@@ -22,9 +22,12 @@ See:
 - https://www.cs.utexas.edu/users/flame/pubs/blis1_toms_rev3.pdf 
 - https://www.cs.utexas.edu/users/flame/pubs/blis3_ipdps14.pdf
 
-
 ## Companies 
 
 - Matlab
 - Wolfram Alpha
 - [perfxlab](https://perfxlab.com/)
+
+## Misc 
+
+- [Project Euler](https://projecteuler.net/archives)
