@@ -4,6 +4,7 @@
 
 - Numerical Recipes 
 - Accuracy and Stability of Numerical Algorithms. N J Higham
+- J von zur Gathen and J Gerhard. Modern Computer Algebra.
 
 ## Programming Libraries 
 

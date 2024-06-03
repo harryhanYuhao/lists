@@ -40,6 +40,7 @@ Many people may hold the wrong notion that linear algebra is the only algebra th
     - This one is rather peculiar, a famous book introducing a very different approach to linear algebra from the traditional one. Namely, this book tires to avoid determinants as far as possible. I think determinants are very natural and useful, so I prefer Artin's traditional approach.
 - Algebra, Serge Lang
     - Very advanced, rigorous, and comprehensive book on algebra.
+- Commutative Algebra, with a view toward Algebraic Geometry, David Eisenbud
 
 ## Geometry 
 
@@ -61,9 +62,9 @@ Here is one example: in differential geometry 2-torus is defined parametrically 
 In algebraic geometry 2-complex-torus can be defined, quite surprisingly, as a quotient space C^2 / Z^2, where C is the complex plane and Z^2 is the lattice of complex integer numbers, equipped with the canonical topology. (Quotiens Space is a notion in algebra, I refer to you Artin's Algebra for reference)
 
 - Ideals, Varieties, and Algorithms, David Cox, John Little, Donal O'Shea
-    - A more friendly and readable introduction to algebraic geometry and some applications.
+    - A more friendly and readable introduction to algebraic geometry and some applications at undergraduate level.
 - Algebraic Geometry, Robin Hartshorne
-    - A very advanced and comprehensive introduction to algebraic geometry. 
+    - A more advanced and comprehensive introduction to algebraic geometry. 
 - Algebraic Curves and Riemann Surfaces, Rick Miranda
 
 ## Number Theory and Combinatorics
@@ -77,11 +78,15 @@ In algebraic geometry 2-complex-torus can be defined, quite surprisingly, as a q
 - Mathematics and Plausible Reasoning, George Polya
     - These two are introductory level books on logics and problem solving. 
 - Mathematics and Its History, John Stillwell
-    - It provides a preview of important topics in mathematics and includes very interesting problems as exercises.
+    - Besides history, it also provides a preview of important topics in mathematics and includes very interesting problems as exercises.
 - Proofs from the Book, Martin Aigner, Günter M. Ziegler
     - A collection of beautiful and elegant proofs in mathematics. This book includes very advanced topics.
 - The Art of Computer Programming Series, Donald Knuth 
     - In reality this book is all about math. It provides a very comprehensive and rigorous introduction to mathematic algorithms and their applications in computer science.
+
+## Advanced Topics 
+
+Any book by Jean-Pierre Serre. 
 
 ## Self Study Guide 
 
@@ -90,3 +95,4 @@ To learn math is challenging, let alone to learn it by yourself. Yet, it is poss
 Currently I am a third year undergraduate studying math, so my perspective is limited. I would, however, provide my thoughts and hope for it to be helpful. 
 
 Start with elementary analysis and algebra. Study next complex variable and metric space. After these you can challenge yourself with differential geometry. While studying geometry, it is important to keep learning more advanced topics in algebra and analysis. After these one can pick up topology and then algebraic geometry. You can also study side topics like number theory and combinatorics on the way.
+
