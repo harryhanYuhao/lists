@@ -6,6 +6,8 @@
 
 - Dassault Systemes
 - Mathworks
+- Matlab
+- [perfxlab](https://perfxlab.com/)
 - WolframAlpha
 
 ### Gaming
@@ -20,3 +22,8 @@
 - Intel
 - Nvidia
 - Qualcomm
+
+### Chinese Firms 
+
+- Alibaba 
+- Baidu

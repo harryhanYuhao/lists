@@ -23,11 +23,6 @@ See:
 - https://www.cs.utexas.edu/users/flame/pubs/blis1_toms_rev3.pdf 
 - https://www.cs.utexas.edu/users/flame/pubs/blis3_ipdps14.pdf
 
-## Companies 
-
-- Matlab
-- Wolfram Alpha
-- [perfxlab](https://perfxlab.com/)
 
 ## Misc 
 
