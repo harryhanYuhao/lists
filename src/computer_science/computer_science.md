@@ -12,7 +12,7 @@ The kernel and the operations system.
 
 There are many operation system based on the linux-kernel. The most well-known ones are Debian, Arch, and RHEL.
 
-Most of these operation system are fully functional, well written, open sourced, but they carries different design flavour. 
+Most of these operation system are stable, well maintained, open sourced, but each with a different design flavour. 
 
 Debian carries the traditional software development paradigm. It is famous for its stability, and many other distributions are developed based on this stable ground: Ubuntu, Mint, the gaming platform Steamos, and the Chinese Linux Deepin.
 
@@ -21,9 +21,9 @@ RHEL (Red Hat Enterprise Linux), developed and supported by Red Hat, is widely u
 Arch linux, unlike most other software, does not have 'stable release'. Instead, it is continuously developed on and released thereafter: this is called rolling release. Arch is also famous for its AUR: a software repository 
 that is developped by its user, which enables Arch to have one of the most comprehensive software repository.
 
-Nixos is also speical in another way.
+NixOs is radically innovative distribtion: all of its system are defined by one config file.
 
-Alpine.
+Alpine Linux: another special one which does not use GNU software.
 
 ### BSD 
 
@@ -62,29 +62,7 @@ The OS world table may seem mundane: very few new players are presented on stage
 - [module-compatibility](https://go.dev/blog/module-compatibility)
 - [Profiling Go](https://go.dev/blog/pprof)
 
-### Frontend
-
-#### Articles
-
-- [react server components](https://www.joshwcomeau.com/react/server-components/)
-- [Markdown Content](https://claritydev.net/blog/nextjs-blog-remark-interactive-table-of-contents)
-
-#### UI libraries
-
-- [DaisyUi](https://daisyui.com/)
-- [AceternityUI](https://ui.aceternity.com/component)
-- [React-spring](https://react-spring.dev/)
-
-### Integrated Tools
-
-- Typeform ( for form submission )
-- Stripe ( For online payments) 
-- Stripe Link
 
 ## Generic Software Development 
 
 - [module-compatibility](https://go.dev/blog/module-compatibility)
-
-## Jobs 
-
-See [jobs.md](./jobs.md)
