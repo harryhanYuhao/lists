@@ -5,4 +5,5 @@
     - [Web Development](./computer_science/web_development.md)
 - [Math](./math/math.md)
     - [Numerical Methods](./math/numerical_methods_computation.md)
+- [Academic Opportunities](academic_opportunities.md)
 - [Jobs](./jobs/jobs.md)
