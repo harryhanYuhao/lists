@@ -13,6 +13,10 @@
 - [AceternityUI](https://ui.aceternity.com/component)
 - [React-spring](https://react-spring.dev/)
 
+### Data Visualisation 
+
+- Apache Echarts
+
 ## Integrated Tools and Services 
 
 - Typeform ( for form submission )

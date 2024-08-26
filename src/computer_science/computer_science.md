@@ -96,3 +96,13 @@ The OS world table may seem mundane: very few new players are presented on stage
 ## Algorithm 
 
 - Dynamic Programming, Bellman 
+
+## Machine Learning
+
+- The triology of [Murphy](https://github.com/probml/pml-book)
+
+## Formal Proofs/ System
+
+- Coq 
+- Lean
+
