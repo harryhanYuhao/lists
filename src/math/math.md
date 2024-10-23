@@ -20,11 +20,15 @@ Complex analysis is real analysis equipped with complex struture. Complex number
 
 In analysis one may realise that real number is not the requirements, instead certain properties of real number brings about all the important results. These properties includes the order, completeness, unboundedness, triangle inequality, etc. Topology studies these any arbitrary space with these properties.
 
-- Metric Space, Robert Magnus, Undergraduate Texts in Mathematics Springer. 
-    - As a very friendly introduction to metric space, it is a nice companion to elementary analysis. Metric space, in general, can be seen as a preliminary topology and an extension of real analysis.
 - J.R. Munkres, Topology, a first course.
     - Classic in Topology
 - G. Bredon, Topology and Geometry
+- Introduction to Topological Manifolds, John M Lee, Springer
+
+The followings ones are more elementary and reader friendly:
+
+- Metric Space, Robert Magnus, Undergraduate Texts in Mathematics Springer. 
+    - As a very friendly introduction to metric space, it is a nice companion to elementary analysis. Metric space, in general, can be seen as a preliminary topology and an extension of real analysis.
 
 ## Algebra
 
@@ -42,18 +46,36 @@ Many people may hold the wrong notion that linear algebra is the only algebra th
     - Very advanced, rigorous, and comprehensive book on algebra.
 - Commutative Algebra, with a view toward Algebraic Geometry, David Eisenbud
 
+The following books is *__Not__* recommended.
+
+- Algebra, Michael Artin
+    - The explanations and structure of the book is poor.
+
+### Commutative Algebra 
+
+- Introduction to Commutative Algebra M.F. Atiyah, I.G. MacDonald
+    
 ## Geometry 
 
 ### Differential geometry
 
-Differential geometry can be thought as an extention to calculus. Calculus studies area, length, and other properties of curves and surfaces in Euclidean space (1D, 2D, 3D, etc) with integral and differentiations. 
+Differential geometry can be thought as an extention to calculus. 
+Calculus studies area, length, and other properties of curves and surfaces in Euclidean space (1D, 2D, 3D, etc) with integral and differentiations. 
 Differential geometry deals with, in one hand, more complex surfuces in Euclidean space, studying properties like curvature and objects like geodesics using integration and differentiations. 
-It also studies surfaces on more abstract space, called manifolds, which exhibit very different properties from Euclidean space. Of course, one of the formost task is to define differentiations (called exterior differentiations) and integrations (opposite of differentiation using pullbacks) on any arbitrary manifolds, which is a non-trivial task, and involves very advanced topics such as topology and algebra.
+It also studies surfaces on more abstract space, called manifolds, which exhibit very different properties from Euclidean space. 
+Of course, one of the formost task is to define what is a manifold, and how to do differentiations (called exterior differentiations) and integrations (opposite of differentiation using pullbacks) on any arbitrary manifolds. These definitions utilise advanced methods in topology, algebra, and analysis.
+
+#### Classic and Comphrehensive books
+
+- Introduction to Smooth Manifolds, John M. Lee. Springer
+    - Comphrehensive and reader-friendly
+
+#### Beginner friendly 
 
 - Differential Geometry of Curves and Surfaces, Manfredo P. do Carmo
-    - A very friendly and readable introduction to differential geometry. 
+    - A friendly introduction to application of differential geometry into 3D curves and surface.
 - A Geometric Approach to Differential Forms, David Bachman
-    - An introduction to a preliminary topic in differential geometry: differential forms.
+    - A gental introduction to a preliminary topic in differential geometry: differential forms.
 
 ### Algebraic Geometry 
 
@@ -66,6 +88,10 @@ In algebraic geometry 2-complex-torus can be defined, quite surprisingly, as a q
 - Algebraic Geometry, Robin Hartshorne
     - A more advanced and comprehensive introduction to algebraic geometry. 
 - Algebraic Curves and Riemann Surfaces, Rick Miranda
+
+## Lie Group 
+
+- Lie Groups, Lie Algebras, and Representations, Brian C. Hall, Springer
 
 ## Number Theory and Combinatorics
 
