@@ -7,3 +7,4 @@
     - [Numerical Methods](./math/numerical_methods_computation.md)
 - [Academic Opportunities](academic_opportunities.md)
 - [Jobs](./jobs/jobs.md)
+- [Reveries](./reveries/summary.md)
