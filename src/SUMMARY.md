@@ -8,4 +8,5 @@
 - [Academic Opportunities](academic_opportunities.md)
 - [Jobs](./jobs/jobs.md)
     - [What Job to Do?](./jobs/what_job_to_do.md)
+- [Life in UK](./life_in_uk/summary.md)
 - [Reveries](./reveries/summary.md)

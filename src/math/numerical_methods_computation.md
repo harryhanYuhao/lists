@@ -27,3 +27,8 @@ See:
 ## Misc 
 
 - [Project Euler](https://projecteuler.net/archives)
+
+## Articles 
+
+- <a href="https://en.wikipedia.org/wiki/Fast_inverse_square_root" target="_blank">Fast Inverse Square Root</a>
+

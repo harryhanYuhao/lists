@@ -7,6 +7,11 @@
 - [react server components](https://www.joshwcomeau.com/react/server-components/)
 - [Markdown Content](https://claritydev.net/blog/nextjs-blog-remark-interactive-table-of-contents)
 
+#### On Web Analytics 
+
+- <a href="https://blog.jim-nielsen.com/2020/google-vs-netlify-analytics/" target="_blank">Comparing Data in Google and Netlify Analytics</a>
+
+
 ### UI libraries
 
 - [DaisyUi](https://daisyui.com/)
