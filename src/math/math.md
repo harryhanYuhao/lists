@@ -44,9 +44,8 @@ Many people may hold the wrong notion that linear algebra is the only algebra th
     - This one is rather peculiar, a famous book introducing a very different approach to linear algebra from the traditional one. Namely, this book tires to avoid determinants as far as possible. I think determinants are very natural and useful, so I prefer Artin's traditional approach.
 - Algebra, Serge Lang
     - Very advanced, rigorous, and comprehensive book on algebra.
-- Commutative Algebra, with a view toward Algebraic Geometry, David Eisenbud
 
-The following books is *__Not__* recommended.
+I found the following books not as helpful:
 
 - Algebra, Michael Artin
     - The explanations and structure of the book is poor.
@@ -54,6 +53,8 @@ The following books is *__Not__* recommended.
 ### Commutative Algebra 
 
 - Introduction to Commutative Algebra M.F. Atiyah, I.G. MacDonald
+- Undergraduate Commutative Algebra, Miles Reid
+- Commutative Algebra, with a view toward Algebraic Geometry, David Eisenbud
     
 ## Geometry 
 
