@@ -97,6 +97,11 @@ The OS world table may seem mundane: very few new players are presented on stage
 
 - Dynamic Programming, Bellman 
 
+## Optimisation 
+
+- An Introduction to Optimization, Edwin Kah Pin Chong
+
+
 ## Machine Learning
 
 - The triology of [Murphy](https://github.com/probml/pml-book)
