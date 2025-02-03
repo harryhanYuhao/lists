@@ -7,6 +7,11 @@
 - American Politics: The Promise of Disharmony, Samuel P. Huntington
 - The End of Liberalism, Theodore J. Lowi
 
+Authors: 
+
+- Henry Adams
+- Vernon Louis Parrington
+
 
 ## UK 
 
