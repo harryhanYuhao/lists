@@ -4,9 +4,13 @@
 
 ### Italian 
 
-- Italiano Vivo, Giorgio Milesi
+- Italiano Vivo, Giorgio Milesi  
 - A Modern Italian Grammar, Frederic J. Jones
 - Practical Italian Grammar, Joseph L. Russo
+
+### Spanish 
+
+- Spanish Grammar, Eriv. V Greenfield
 
 ### English 
 
@@ -26,6 +30,7 @@
 
 ### Latin
 
+- Wheelock's Latin, by Frederic M Wheelock.
 - Aids to Writing Latin Prose, G. G. Bradley
 - Practial Introduction to Latin Prose Composition, G. G. Bradley
 
@@ -34,7 +39,6 @@
 - Introduction to Attic Greek. Donald J, Mastronarde, University of California Press
 - Athenaze, An Introduction to Ancient Greek. Maurice Balme and Gilbert Lawall
 - Reading Greek, Grammar and Exercises. The Joint Association of Classical Teacher's Greek Course. Cambridge University Press.
-
 
 ## Literature 
 
