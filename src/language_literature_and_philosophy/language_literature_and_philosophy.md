@@ -50,3 +50,7 @@
 
 - The Republic, Plato
 - Benedictus de Spinoza
+
+### American Philosophy 
+
+- William James
