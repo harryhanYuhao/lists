@@ -4,7 +4,6 @@
     - [Open Source](./computer_science/open_source.md)
     - [Web Development](./computer_science/web_development.md)
 - [Math](./math/math.md)
-    - [List](./math/list.md)
     - [Numerical Methods](./math/numerical_methods_computation.md)
 - [Social Sciences and History](./social_sciences_and_history/social_sciences_and_history.md)
 - [Language, Literature and Philosophy](./language_literature_and_philosophy/language_literature_and_philosophy.md)
