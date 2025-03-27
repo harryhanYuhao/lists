@@ -31,6 +31,11 @@ The following articles are must read.
     - Book 1: “Probabilistic Machine Learning: An Introduction” (2022)
     - Book 2: “Probabilistic Machine Learning: Advanced Topics” (2023)
 
+### Theoretical Computer Science
+
+- Michael Sipser, Introduction to the Theory of Computation.
+- Benjamin Pierce, Types and Programming Languages.
+
 ## Softwares
 
 Formal Proofs / System
