@@ -7,6 +7,7 @@
     - [Numerical Methods](./math/numerical_methods_computation.md)
 - [Social Sciences and History](./social_sciences_and_history/social_sciences_and_history.md)
 - [Language, Literature and Philosophy](./language_literature_and_philosophy/language_literature_and_philosophy.md)
+    - [English Literature](./language_literature_and_philosophy/english_literature.md)
 - [Academic Opportunities](academic_opportunities.md)
 - [Jobs](./jobs/jobs.md)
     - [What Job to Do?](./jobs/what_job_to_do.md)
