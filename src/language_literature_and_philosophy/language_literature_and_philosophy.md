@@ -3,19 +3,33 @@
 
 ## Italian 
 
-- Italiano Vivo, Giorgio Milesi  
-- Practical Italian Grammar, Joseph L. Russo
-- [Leggiammo 101](http://leggiamoitaliano.weebly.com/italian-101.html)
-- [Leggiammo 102](http://leggiamoitaliano.weebly.com/italian-102.html)
-- L'Italiano Secondo il Metudo Natura
+### Learning
 
-### Beginner Reading 
+- Italiano Vivo, Giorgio Milesi  
+    - Traditional Method
+- Practical Italian Grammar, Joseph L. Russo
+    - Traditional Method
+- L'Italiano Secondo il Metudo Natura
+    - This one is simply ingenious
+
+The followings are easy readings.
 
 - Geronimo Stilton
+- [Leggiammo 101](http://leggiamoitaliano.weebly.com/italian-101.html)
+- [Leggiammo 102](http://leggiamoitaliano.weebly.com/italian-102.html)
+
+### Literature 
+
+- *I promessi sposi*, Alessandro Manzoni. Considered as the greatest.
+- *Il Decameron*, classics early Italian literature.
 
 ## Spanish 
 
 - Spanish Grammar, Eriv. V Greenfield
+
+## French 
+
+- Le Français par la «méthode nature»,
 
 ## English 
 
@@ -37,11 +51,16 @@
 
 ## Latin
 
+### Learning
+
 - Wheelock's Latin, by Frederic M Wheelock.
 - Aids to Writing Latin Prose, G. G. Bradley
 - Practial Introduction to Latin Prose Composition, G. G. Bradley
+- Lingua Latina per se illustrata, I, II
 
 ## Ancient Greek
+
+### Learning
 
 - Introduction to Attic Greek. Donald J, Mastronarde, University of California Press
 - Athenaze, An Introduction to Ancient Greek. Maurice Balme and Gilbert Lawall

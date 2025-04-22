@@ -13,11 +13,14 @@
 ## Topology
 
 - J.R. Munkres, Topology, a first course.
-    - Classic in Topology
-- G. Bredon, Topology and Geometry
+    - Classic introductory text on Topology. Hard to find a paper copy but definitely worth to have one.
 - Introduction to Topological Manifolds, John M Lee, Springer
+    - Focuses on uses of topology in manifolds (differential geometry). Covers both general topology and algebraic topology.
+- M.A.  Armstrong, Basic Topology
+    - Haven't read it but seems to be great.
+- G. Bredon, Topology and Geometry
 
-The following books are more elementary and reader friendly:
+The following textbook is more elementary and reader friendly:
 
 - Metric Space, Robert Magnus, Undergraduate Texts in Mathematics Springer. 
 
@@ -63,6 +66,7 @@ I found the following books not as helpful:
 ## Number Theory 
 
 - Elementary Number Theory, by Kenneth H. Rosen 
+- A Course in Computational Algebraic Number Theory, Henri Cohen
 
 ## Graph Theory
 

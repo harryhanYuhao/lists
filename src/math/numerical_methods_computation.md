@@ -10,6 +10,7 @@
 ## Programming Libraries 
 
 - FEniCS
+- PARI/GP
 - CGAL (computational geometry and algorithm library)
 - Basic Linear Algebra Subprograms (standard). See https://dl.acm.org/doi/10.1145/355841.355847
 - OpenBlas 

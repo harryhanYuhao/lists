@@ -1,6 +1,7 @@
 # Summary
 
 - [Computer Science](./computer_science/computer_science.md)
+    - [Data Science](./computer_science/data_science.md)
     - [Open Source](./computer_science/open_source.md)
     - [Web Development](./computer_science/web_development.md)
 - [Math](./math/math.md)
@@ -13,3 +14,4 @@
     - [What Job to Do?](./jobs/what_job_to_do.md)
 - [Life in UK](./life_in_uk/summary.md)
 - [Reveries](./reveries/summary.md)
+- [Spiritual Inspirations](./spiritual_inspirations/summary.md)
