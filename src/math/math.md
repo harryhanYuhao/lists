@@ -12,17 +12,23 @@
 
 ## Topology
 
-- J.R. Munkres, Topology, a first course.
+### Point Set Topology
+
+-  Topology, a first course, J.R. Munkres
     - Classic introductory text on Topology. Hard to find a paper copy but definitely worth to have one.
 - Introduction to Topological Manifolds, John M Lee, Springer
     - Focuses on uses of topology in manifolds (differential geometry). Covers both general topology and algebraic topology.
-- M.A.  Armstrong, Basic Topology
+-  Basic Topology, M.A.  Armstrong
     - Haven't read it but seems to be great.
-- G. Bredon, Topology and Geometry
+- Topology and Geometry, G. Bredon
 
 The following textbook is more elementary and reader friendly:
 
 - Metric Space, Robert Magnus, Undergraduate Texts in Mathematics Springer. 
+
+### Algebraic Topology
+
+- Algebraic Topology, Allen Hatcher.
 
 ## Algebra
 
