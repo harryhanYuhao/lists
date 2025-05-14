@@ -6,6 +6,7 @@
 - Accuracy and Stability of Numerical Algorithms. N J Higham
 - J von zur Gathen and J Gerhard. Modern Computer Algebra.
 - Modern Computer Arithmetic by Richard Brent and Paul Zimmermann (Highly recommended. Easy to read)
+- Permutation Group Algorithms, Ákos Seress, 
 
 ## Programming and Libraries
 
