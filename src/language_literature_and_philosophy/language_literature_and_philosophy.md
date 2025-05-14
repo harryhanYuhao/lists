@@ -58,6 +58,14 @@ The followings are easy readings.
 - Practial Introduction to Latin Prose Composition, G. G. Bradley
 - Lingua Latina per se illustrata, I, II
 
+### Easy Readers 
+
+- Rebilius Cruso Robinson Crusoe, in Latin, by Francis William Newman
+
+### Post Roman Latin
+
+- Meditationes de prima philosophia ab René Descartes
+
 ## Ancient Greek
 
 ### Learning

@@ -7,7 +7,15 @@
 - J von zur Gathen and J Gerhard. Modern Computer Algebra.
 - Modern Computer Arithmetic by Richard Brent and Paul Zimmermann (Highly recommended. Easy to read)
 
-## Programming Libraries 
+## Programming and Libraries
+
+### The Best ones
+
+- Gnu MP [GMP](https://gmplib.org/)
+- Gnu Scientific Library [GSL](https://www.gnu.org/software/gsl/)
+- Gap: Group Algorithms Programming (This one is astounding).
+
+### Miscellaneous 
 
 - FEniCS
 - PARI/GP
@@ -16,8 +24,6 @@
 - OpenBlas 
 - Intel Math Kernel Library
 - rulinalg: rust linear algebra libaray
-- Gnu MP [GMP](https://gmplib.org/)
-- Gnu Scientific Library [GSL](https://www.gnu.org/software/gsl/)
 
 See:
 

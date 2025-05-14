@@ -11,6 +11,7 @@
 - [Language, Literature and Philosophy](./language_literature_and_philosophy/language_literature_and_philosophy.md)
     - [English Literature](./language_literature_and_philosophy/english_literature.md)
 - [Academic Opportunities](academic_opportunities.md)
+- [To Read](to_read.md)
 - [Jobs](./jobs/jobs.md)
     - [What Job to Do?](./jobs/what_job_to_do.md)
 - [Life in UK](./life_in_uk/summary.md)
