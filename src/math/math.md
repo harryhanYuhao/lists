@@ -1,52 +1,32 @@
-# Math Resources
+# Maths Resources
 
-## Analysis 
+## Undergraduate Level
+
+### Analysis 
 
 - Mathematical Analysis , Tom M. Apostol
     - This is a gem.
 - Analysis I, and Analysis II, Terence Tao
 - Complex Analysis, Joseph Bak, Donald J. Newman. Undergraduate Texts in Mathematics, Springer. 
-    - Classic Textbook in Complex Analysis. Very friendly and readable. In general, complex analysis shall be studied after real analysis.
+    - Classic Textbook in Complex Analysis. Very friendly and readable.
 - Analysis I, and Analysis II, Serge Lang
     - More advanced.
 
-## Topology
-
-### Point Set Topology
+### Point Set Topology and Metric Spaces
 
 -  Topology, a first course, J.R. Munkres
     - Classic introductory text on Topology. Hard to find a paper copy but definitely worth to have one.
-- Introduction to Topological Manifolds, John M Lee, Springer
-    - Focuses on uses of topology in manifolds (differential geometry). Covers both general topology and algebraic topology.
--  Basic Topology, M.A.  Armstrong
-    - Haven't read it but seems to be great.
-- Topology and Geometry, G. Bredon
-
-The following textbook is more elementary and reader friendly:
-
 - Metric Space, Robert Magnus, Undergraduate Texts in Mathematics Springer. 
 
 ### Algebraic Topology
 
 - Algebraic Topology, Allen Hatcher.
 
-## Algebra
+### Algebra
 
-- Algebra I and II, PM Cohn
+- Algebra I, II, and III, PM Cohn
     - A comprehensive and friendly introduction. This book is hard to find, however.
-- Linear Algebra Done Right, Sheldon Axler
-    - By an American and a non-traditionalist. He does everything differently. But explainations are friendly and enlightening.
-- Algebra, Serge Lang
-    - An encyclopeidia
 - Introduction to Commutative Algebra M.F. Atiyah, I.G. MacDonald
-- Undergraduate Commutative Algebra, Miles Reid
-- Commutative Algebra, with a view toward Algebraic Geometry, David Eisenbud
-    
-I found the following books not as helpful:
-- Algebra, Michael Artin
-    - The explanations and structure of the book are poor.
-
-## Geometry 
 
 ### Differential geometry
 
@@ -60,25 +40,45 @@ I found the following books not as helpful:
 - Ideals, Varieties, and Algorithms, David Cox, John Little, Donal O'Shea
     - An elementary introduction to commutative algebra and algebraic geometry.
 - Basic Algebraic Geometry (1,2), Shafarevich
-- Algebraic Curves and Riemann Surfaces, Rick Miranda
-    - Encyclopedia
-- Algebraic Geometry, Robin Hartshorne
-    - Again, an encyclopeidia. You need to be extremely relentless even finish the first several chapters.
 
-## Set Theory 
+### Set Theory 
 
 - Naive Set Theory, Paul R, Halmos
 
-## Number Theory 
+### Number Theory 
 
 - Elementary Number Theory, by Kenneth H. Rosen 
 - A Course in Computational Algebraic Number Theory, Henri Cohen
 
-## Graph Theory
+### Graph Theory
 
 - Introduction to Graph Theory, by Robin J Wilson
 
-## Miscellaneous
+
+## Advanced Mathematics 
+
+### Homological Algebra and Algebraic Topology
+
+- Elements of Algebraic Topology, Munkres
+- An Introduction to Homological Algebra, Rotman
+
+### Category Theory 
+
+- Basic Category Theory, Tom Leinster 
+- Categories for the Working Mathematician, Saunders Mac Lane
+
+### Algebra
+
+- Commutative Algebra, with a view toward Algebraic Geometry, David Eisenbud
+- Algebraic Geometry, Robin Hartshorne
+    - Again, an encyclopeidia. You need to be extremely relentless even finish the first several chapters.
+
+### Others 
+
+- A Course on Arithmetic, Jean-Pierre Serre
+- Lie Groups, Lie Algebras, and Representations, Brian C. Hall, Springer
+
+## General Problem Solving
 
 - How to Solve It, George Polya
 - Mathematics and Plausible Reasoning, George Polya
@@ -91,4 +91,3 @@ I found the following books not as helpful:
 
 Any book by Jean-Pierre Serre. 
 
-- Lie Groups, Lie Algebras, and Representations, Brian C. Hall, Springer

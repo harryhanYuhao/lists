@@ -30,6 +30,7 @@ The followings are easy readings.
 ## French 
 
 - Le Français par la «méthode nature»,
+- Heath Practical French Grammar
 
 ## English 
 

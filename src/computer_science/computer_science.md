@@ -35,6 +35,7 @@ The following articles are must read.
 
 - Michael Sipser, Introduction to the Theory of Computation.
 - Benjamin Pierce, Types and Programming Languages.
+- Robert Harper, Practical Foundations for Programming Languages
 
 ## Softwares
 
