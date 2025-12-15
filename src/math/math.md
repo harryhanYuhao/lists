@@ -87,7 +87,8 @@
 - The Art of Computer Programming Series, Donald Knuth 
     - In reality this book is all about math. It provides a very comprehensive and rigorous introduction to mathematic algorithms and their applications in computer science.
 
-## Advanced Topics 
+## Too Read
 
-Any book by Jean-Pierre Serre. 
+- Any book by Jean-Pierre Serre. 
+- Probabilistic Method, Alon and Spencer
 
