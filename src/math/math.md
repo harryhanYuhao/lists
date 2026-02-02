@@ -54,7 +54,6 @@
 
 - Introduction to Graph Theory, by Robin J Wilson
 
-
 ## Advanced Mathematics 
 
 ### Homological Algebra and Algebraic Topology
@@ -64,14 +63,17 @@
 
 ### Category Theory 
 
-- Basic Category Theory, Tom Leinster 
-- Categories for the Working Mathematician, Saunders Mac Lane
+- Category Theory, Awodey. **Specially recommended**
+- Basic Category Theory, Tom Leinster. Shorter and more concise.
+- Categories for the Working Mathematician, Saunders Mac Lane.
 
 ### Algebra
 
 - Commutative Algebra, with a view toward Algebraic Geometry, David Eisenbud
 - Algebraic Geometry, Robin Hartshorne
     - Again, an encyclopeidia. You need to be extremely relentless even finish the first several chapters.
+- Algebraic Number Theory and Fermat's Last Theorem, Ian Stewart, David Tall
+    - Recommend to read after learning some Galois Theory.
 
 ### Others 
 
