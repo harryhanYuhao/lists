@@ -48,6 +48,8 @@
 ### Number Theory 
 
 - Elementary Number Theory, by Kenneth H. Rosen 
+- A classical introduction to modern number theory. **Specially recommended**.
+- A Course on Arithmetic, Jean-Pierre Serre. **Specially recommended**.
 - A Course in Computational Algebraic Number Theory, Henri Cohen
 
 ### Graph Theory
@@ -77,7 +79,6 @@
 
 ### Others 
 
-- A Course on Arithmetic, Jean-Pierre Serre
 - Lie Groups, Lie Algebras, and Representations, Brian C. Hall, Springer
 
 ## General Problem Solving
