@@ -45,6 +45,10 @@
 
 - Naive Set Theory, Paul R, Halmos
 
+### Logic
+
+- Mathematical Logic, a course with exercises. Rene COri and Daniel Lascar.
+
 ### Number Theory 
 
 - Elementary Number Theory, by Kenneth H. Rosen 

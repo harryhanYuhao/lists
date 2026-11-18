@@ -4,6 +4,12 @@
 
 Hardcore textbooks, paper, and the love of traditionalists.
 
+### General Programming 
+
+- Structure and Interpretation of Computer Programs by Gerald Jay Sussman 
+- Computer Systems: A Programmer’s Perspective by Randal E. Bryant 
+- Designing Data-Intensive Applications by Martin Kleppmann
+
 ### Network
 
 - Unix Network Programming , W. Richard Stevens
